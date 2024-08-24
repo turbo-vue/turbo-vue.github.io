@@ -13,7 +13,7 @@ import {createRoot, createSignal, Signal} from "solid-js";
 import {ReactiveMap} from "@solid-primitives/map";
 import {isMCPS} from "../utils";
 
-export const BASE_URL = 'https://turbovue-api.jay3332.tech'
+export const BASE_URL = 'https://useful-fawnia-jay3332.koyeb.app/req?path='
 
 export type CustomAssignment = Assignment & {
   isCustom?: boolean
